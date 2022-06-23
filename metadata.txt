@@ -1,0 +1,9 @@
+[general]
+name=SwitchLayers
+description=Switch layers
+about=Switch Layer
+version=1.0
+qgisMinimumVersion=3.0
+author=Oleksandr Dmytrenko
+email=wvdial@gmail.com
+repository=https://github.com/alex43dm/qgis-switch-layers

@@ -15,7 +15,7 @@ For fast woring
     ```C:\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\qgis-switch-layers```
     Where USER - local user name on machine
 2. Copy ```metadata.txt``` and ```__init__.py``` to that directory
-3. Start QGIS and enable the plugin (menu Plugins > Manager and Install Plugins...)
+3. Start QGIS and enable the plugin (menu Plugins > Manager and Install Plugins...> SwitchLayers)
 
 Now you should see a "L1" - "L6" buttons in your "Plugins" toolbar (make sure it is enabled in menu Settings > Toolbars > Plugins).
 

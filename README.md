@@ -9,9 +9,11 @@ For fast woring
 ## How to use it?
 
 1. Create a new python plugin directory
-  * e.g. Linux ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/qgis-switch-layers
+  * e.g. Linux
+    ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/qgis-switch-layers
   * e.g. Windows
     C:\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\qgis-switch-layers
+    Where USER - local user name on machine
 2. Copy metadata.txt and __init__.py to that directory
 3. Start QGIS and enable the plugin (menu Plugins > Manager and Install Plugins...)
 

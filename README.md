@@ -19,11 +19,11 @@ For fast woring
 
 Now you should see a "L1" - "L6" buttons in your "Plugins" toolbar (make sure it is enabled in menu Settings > Toolbars > Plugins).
 
-To switch laayer 1 press Alt+1
-To switch laayer 2 press Alt+2
-To switch laayer 3 press Alt+3
-To switch laayer 4 press Alt+4
-To switch laayer 5 press Alt+5
-To switch laayer 6 press Alt+6
+* To switch laayer 1 press Alt+1
+* To switch laayer 2 press Alt+2
+* To switch laayer 3 press Alt+3
+* To switch laayer 4 press Alt+4
+* To switch laayer 5 press Alt+5
+* To switch laayer 6 press Alt+6
 
 Have fun!

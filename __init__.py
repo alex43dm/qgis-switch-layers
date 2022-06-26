@@ -63,7 +63,7 @@ class SwitchLayer:
         i = 0
         root = QgsProject.instance().layerTreeRoot()
         for layer in root.layerOrder():
-            if i != n:
+            if i != 0 and i != n:
                 visible = False
             else:
                 visible = True
@@ -71,7 +71,9 @@ class SwitchLayer:
             i += 1
 
     def run1(self):
-        self.run(0)
+        root = QgsProject.instance().layerTreeRoot()
+        l = root.findLayer(root.layerOrder()[0].id())
+        l.setItemVisibilityChecked(not l.isVisible())
 
     def run2(self):
         self.run(1)
